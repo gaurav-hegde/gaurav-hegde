@@ -1,17 +1,63 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">Trying to figure out how my computer works</h3>
+<h2 align="left">HI I'M GAURAV HEGDE 😸</h2>
 
-- 🌱 I’m currently learning **Machine Learning and Data Structures and Algorithms**
+###
 
-- 💬 Ask me about **ReactJS, Next.js and TailwindCSS**
+<img align="left" height="225" src="https://lh3.googleusercontent.com/pw/ADCreHfaSV6In1RJejjIAy0AnmMFOXMvo5YuRxuG7VkFWK5ZqYLojZWyHergKrJcXyyQNHvbiyFJ9kmxZXeoj5nthiYyqmIw-2UjBiJd7hOW5x3v6XgZGySSQfL_JvuKG1-O8FDiFr6fBs8dKO4jx8_K7R1hdzn1xDAqL2P8qleV4MMCqmcZGPOZzltQquSNDNI4dXzuKa8kLgNwU0YT23KRLHh_Xu_oAP0Stw9Uf5YtNxrsrm1XaygpkguUh_OgffT9u-7xb1Yrc5qu-asNA6YS4Exi4XVU0vtvyQ3JOFvz52ikOSBNmDoPYSR-ufeNvCR8o9Dea6_KPk-FI-8uT1VO6OR55G4hgqiy3C9l7t7uA4eiXgH6ERvQyBhLPTlAQDGK6vb-R2ijk8gumiGHR9AoC02O0MlwCttAAg4i4h-CbBwyYswOs1li5yB5ZFTCEv3YiUPrdTVqK0M3C1v1Rau7oh-sXGPAKnxdK2QUIjQck9cpy51stfcaCVqaBmJygW34HvghbhKZgXw_ONJmoA7-oJ0xWQQytUdx11_j-8JRwJeBP36ElBjMJxscMuu_EjOraMiGXk3OhJak4l_vPKAleyzCCbiLrtCEb7h8tc0Y7Nh8cOqhDitEkD7CB5PljNLniNRhix7lZZEAr89shOXFD_ndh_4UQhR9tbIS9TPOfr_8XNpTXr9S0T_oy0S52NyCqhtovgtJ3nj_e9_3ObeatMwrO0YoweCGD33Kxg0aBU2SXhHSoYs87c3GyZbpJivYxlxsbt1AUhaDzkvmJaVEfp4zvQl_tHSwbn3a3M3v-6luhI_BR7ltWvt8136YBefBDxlt_FLYwJjIdvI5K3ZJtmNn7Sfw-ojHRjftsj1O0M7-WQXyUhFW9N-C3DWUTGJVjMo34DHtHP1pGXrWiFj5qDpolgltlDbmlKst8QiGR-0xL6DSvbQD27PDI0OhYTbV6nbRKeQERcqi=w1716-h965-s-no-gm?authuser=0"  />
 
-- 📫 How to reach me **gauravhegde03@gmail.com**
+###
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Gz6Gob0UMTkPYbFHWKxlz8Knk1BSgvoT/view?usp=sharing)
+<p align="left">I'm a frontend developer who also does fullstack!<br>I am currently learning and practicing a lot of things including DSA, ML and Data Science<br>I would love to collaborate on projects and am open to other opportunities as well :)</p>
 
+###
 
-<p align="left">
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gauravhegde/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/gogohegde">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gogohegde&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-hegde&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-hegde&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gaurav-hegde&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
