@@ -1,6 +1,7 @@
 # Gaurav Hegde
 
-I'm a Final year student at VIT Vellore, studying Computer Science and Engineering. I make websites and enjoy learning about machine learning.
+I am a final-year student at VIT Vellore and currently employed at ION Group. With a strong foundation in web development using Python and Next.js, I enjoy exploring and adapting to new tech stacks. Throughout my journey, I've dabbled in various fields, including data science and machine learning, and thrive in problem-solving situations that challenge me to think critically and creatively.
+I'm always open to collaborations and new project ideas but my primary focus at the moment is on my work at ION.
 
 ## Tech Stack
 
