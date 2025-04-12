@@ -1,8 +1,4 @@
-# Gaurav Hegde
 
-I am a final-year student at VIT Vellore and currently employed at ION Groups. With a strong foundation in web development using Next.js, Angular (for Frontend), Python, Typescript (for backend). I enjoy exploring and adapting to new tech stacks. Throughout my journey, I've dabbled in various fields, including data science and machine learning, and thrive in problem-solving situations that challenge me to think critically and creatively. 
-
-I'm always open to collaborations and new project ideas.
 
 ## Tech Stack
 
